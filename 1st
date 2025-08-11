@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MAA DURGA TRADERS - BAGODAR</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>MAA DURGA TRADERS</h1>
+        <p>Jharkhand's 2-Time Best Selling Dealer & 1-Time 1st Best Dealer</p>
+    </header>
+
+    <section class="products">
+        <h2>Our Products & Prices</h2>
+        <table>
+            <tr>
+                <th>Product</th>
+                <th>Price</th>
+            </tr>
+            <tr>
+                <td>ACC Cement</td>
+                <td>₹350</td>
+            </tr>
+            <tr>
+                <td>Ambuja Cement</td>
+                <td>₹350</td>
+            </tr>
+            <tr>
+                <td>Mongia Steel</td>
+                <td>₹64 / kg</td>
+            </tr>
+            <tr>
+                <td>Kamdhenu Steel</td>
+                <td>₹60 / kg</td>
+            </tr>
+            <tr>
+                <td>Charminar Albestor (6 ft)</td>
+                <td>₹400</td>
+            </tr>
+            <tr>
+                <td>Charminar Albestor (8 ft)</td>
+                <td>₹500</td>
+            </tr>
+            <tr>
+                <td>Charminar Albestor (10 ft)</td>
+                <td>₹600</td>
+            </tr>
+        </table>
+    </section>
+
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <p><strong>Address:</strong> Near Nehru Public School, Bagodar, Suriya Road</p>
+        <p><strong>Mobile:</strong> <a href="tel:7061602288">7061602288</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 MAA DURGA TRADERS</p>
+    </footer>
+</body>
+</html>
